@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    android:layout_height="match_parent"
+    tools:context=".Basic.StartActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MioChat"
+        android:textColor="#fff"
+        android:textSize="35sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:id="@+id/login"
+        android:background="@drawable/logreg_button"
+        android:textColor="#fff"
+        android:text="login"/>
+    <Button
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/logreg_button"
+        android:textColor="#fff"
+        android:layout_marginTop="20dp"
+        android:id="@+id/register"
+        android:text="register"/>
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "466496922071",
+    "firebase_url": "https://miochat2020.firebaseio.com",
+    "project_id": "miochat2020",
+    "storage_bucket": "miochat2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466496922071:android:20c04524bad1b394542b92",
+        "android_client_info": {
+          "package_name": "devloper.game.miochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466496922071-9b6cc1ichh2cp6d8mkq5fj2chtegthkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "devloper.game.miochat",
+            "certificate_hash": "87e349892bea8167039372ff23522f4a9270945a"
+          }
+        },
+        {
+          "client_id": "466496922071-rrdu6vp51osrmbmj648eqv1obco2b2t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgwmZO6yR8eDNnQ59qm67dcBrGtpbiuKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466496922071-rrdu6vp51osrmbmj648eqv1obco2b2t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
